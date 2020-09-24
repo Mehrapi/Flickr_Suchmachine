@@ -1,4 +1,4 @@
-# Flickr Suchmachine
+# Flickr Suchmachine 👋
 
 Mit diesem Projekt ☀ habe ich eine Flickr Suchmaschine entwickelt. Mit diese Webapp bekommt man Zuffals-Bilder aus Flickr nach eingabe von ein Stichwort.
 
