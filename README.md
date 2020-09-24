@@ -2,7 +2,7 @@
 
 Mit diesem Projekt ☀ habe ich eine Flickr Suchmaschine entwickelt. Mit diese Webapp bekommt man Zuffals-Bilder aus Flickr nach eingabe von ein Stichwort.
 
-Zum Beispiel mit den Stichtwörter Vögel 🦅 und BVG 🚍 habe ich die Bilder ünter bekommt.
+Zum Beispiel mit den Stichtwörter Vögel 🦅 und BVG 🚍 habe ich diese interessanten Ergebnisse 👇👇 bekommt.
 
 ![Flickr Search App](https://user-images.githubusercontent.com/71266593/94100105-0212ee80-fe2d-11ea-9480-0184523df310.PNG)
 
