@@ -1,0 +1,113 @@
+* {
+	margin: 0;
+	padding: 0;
+	}
+
+body {
+background: azure;
+font-size: 100%;
+font-family: sans-serif;
+margin: auto;
+
+ }
+ 
+ header ul {
+    width: 230px;
+}
+ 
+ li {
+    list-style: none;
+}
+
+ 
+ header {
+  background: azure;
+  overflow: auto;
+  margin: auto;
+}
+ header .container {
+  margin: 20px;
+  
+ 
+ }
+ nav .left{
+  float: left;
+  width: 285px;
+  margin: 20px;
+}
+
+ nav.right {
+  float: right;
+  width: 285px;
+}
+header a {
+  color: dimgray;
+  text-decoration: none;
+  display: inline-block;
+  width: 70px;
+  padding: 
+}
+ 
+ main {
+float: center;
+text-align: center;
+}
+
+main .container{
+  margin: 50px 20px 50px 20px;
+  float: center;
+}
+ 
+.search-input h1 {
+float: center;
+margin-top: 60px;
+margin-bottom: 20px;
+font-size: 3em;
+color: #b33;
+}
+
+ .search-input input{
+ font-size: 1.5em;
+  color: #b33;
+  margin-bottom: 60px;
+  border-radius: 5px 5px 5px 5px;
+ }
+
+
+ .search-input button {
+ font-size: 1.2em;
+ background: DarkSeaGreen;
+ padding: 3px;
+ border-radius: 5px;
+ margin-left:5px;
+ margin-bottom: 5px;
+ cursor: pointer;
+ }
+
+
+  footer {
+  background: Azure;
+    border-top: 1px solid, blue;
+    padding: 15px;
+    margin-top: 5px;
+clear:both;
+}
+}
+
+
+footer .sitemap {
+    float: left;
+    width: 285px;
+}
+
+footer a {
+  color: dimgray;
+  text-decoration: none;
+  display: inline-block;
+  width: 70px;
+}
+
+footer .privacy {
+    float: right;
+    width: 285px;
+}
