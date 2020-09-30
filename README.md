@@ -1,6 +1,6 @@
 # Flickr Suchmachine 👋
 
-**Wilkomen auf mein Flickr Suchmachine Repo**
+**Wilkomen auf meinem Flickr Suchmachine Repo**
 
 Mit diesem Projekt ☀ habe ich eine Flickr Suchmaschine entwickelt. Mit diese Webapp bekommt man Zuffals-Bilder aus Flickr nach eingabe von ein Stichwort.
 Zum Beispiel mit den Stichtwörter Vögel 🦅 und BVG 🚍 habe ich diese interessanten Ergebnisse 👇 bekommt.
